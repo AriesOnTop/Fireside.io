@@ -1,0 +1,29 @@
+Fireside_Configs:
+  Token: 
+  GPT_AUTH_TOKEN: 
+
+SETTINGS:
+  ID_LIST:
+    STAFF_MEMBER:
+      - 591285777334534165 # TOMAS (Me hehe)
+    VIP:
+      - 1085596426203041903 # RYAN
+      - 1088262191544799335 # YAZ
+      - 1055503224590831657 # PETE
+      - 768843783131365446 # TYLER
+      - 692122202237304924 # CHLOE
+      - 1092076481208930314 # CRIS
+      - 919307539714306090 # MIA
+      - 967782650251190312 # SPEEDY
+
+Fireside_Misc:
+  Team:
+    - Coded#0001 # DEVELOPER
+    - JaeTea (L20K)#7761 #GFX-ARTIST
+
+  Socials:
+    - https://dsc.gg/ariez
+    - https://dsc.gg/fireside
+    - https://github.com/Codedddd
+    - https://github.com/AriesOnTop
+    - https://instagram.com/i_live_ina_box
